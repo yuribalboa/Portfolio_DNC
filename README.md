@@ -56,6 +56,3 @@ Compila o aplicativo para produção na pasta build.
 Agrupa corretamente o React em modo de produção e otimiza a compilação para obter o melhor desempenho.
 A compilação é minificada e os nomes dos arquivos incluem hashes.
 Seu aplicativo está pronto para ser implantado!
-
-🌟 Prévia
-Inclua aqui uma imagem ou gif que mostre como o portfólio se parece.
